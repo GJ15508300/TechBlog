@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "TechBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "https://github.com/GJ15508300/TechBlog.git",
+  "author": "GJ <jagadeesh15508300@gmail.com>",
+  "license": "MIT"
+}
