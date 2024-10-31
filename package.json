@@ -8,5 +8,12 @@
   ],
   "repository": "https://github.com/GJ15508300/TechBlog.git",
   "author": "GJ <jagadeesh15508300@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "mini-css-extract-plugin": "^2.9.1",
+    "react-scripts": "^5.0.1",
+    "schema-utils": "^4.2.0"
+  }
 }
